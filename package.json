@@ -1,0 +1,21 @@
+{
+  "name": "mediabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.4",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.0",
+    "telegraf": "^4.11.2",
+    "unsplash": "^4.2.0",
+    "unsplash-js": "^7.0.15"
+  },
+  "type": "module"
+}
